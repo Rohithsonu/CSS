@@ -1,0 +1,5 @@
+CSS - Cascading style sheets
+
+Where to write CSS code
+--> In the HTML code
+--> Outside the HTML (CSS file - Styles.Css)

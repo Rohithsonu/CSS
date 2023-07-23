@@ -1,0 +1,4 @@
+There are 3 Types of possible CCS Placement:
+1. In the Same file/Internal CSS
+2. In the other file?Externalo CSS
+3. Within the element/Inline CSS

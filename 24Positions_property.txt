@@ -1,0 +1,17 @@
+Positions properties
+
+p{
+    Property: value:
+
+}
+
+Position is also Property
+there are 5 position properties
+1. Static
+2. relative
+3. fixed
+4. absolute
+5. sticky
+
+
+Refer notes for detailed explaination

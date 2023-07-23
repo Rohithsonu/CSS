@@ -1,0 +1,41 @@
+examples of psedo selectors
+
+1) if we want to apply style to the checkbox
+
+ --> whem the box is checked
+
+ input:checked{
+    Property: Value;
+ }
+
+ 2) if there is empty in div element - we will add elements using javascript starting i will be empty
+ --> div element has no childers
+ div: empty{
+    Property: value;
+ }
+
+ 3) if we hover(means-If we take cursor to a particular link it will show the link below)
+ a:hover{
+    property: value;
+ }
+
+ 4) if we chick on a particular link after it will show in a purpul color others which are non clicked will be blue
+   ----> how to do that(code)
+a:visited{
+    property: value;
+}
+   
+5) if the p element is the first child of other element then it will be apply
+   ---> if the h1 is the first child of the other element it will not apply
+p:first-child{
+property: value;
+}
+
+ 6) if the p is the last child of the other element
+ P: last-child{
+    property: value;
+ }
+
+
+
+

@@ -1,0 +1,31 @@
+1) Decendant selector
+Ex:
+div h1{
+    Property: Value;
+}
+
+2) Child selector
+Ex:
+div>P{
+    Property: value;
+}
+
+3) adjacent sibling selector ( it applies only when p is agjacent to h1)
+---> <div>
+-p tag
+-h1 tag
+
+p+h1{
+    Prop: value;
+}
+
+4) general sibling selector:(it will apply if the h1 tag is not an adjacent sibling, the main concept is simpling only)
+
+----> <div>
+-p tag
+-h2 tag
+-h1 tag
+
+p-h1{
+    Prop: Value;
+}

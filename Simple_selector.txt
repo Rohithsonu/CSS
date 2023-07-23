@@ -1,0 +1,28 @@
+With ID
+
+---> For id we have to use #
+
+#id1{
+    Property: Value;
+}
+
+With class (. Dot)
+.Class{
+    Property: Vlaue;
+}
+
+All (for all it will apply)
+*{
+    Property: Value;
+}
+
+With element
+p{
+    Property: value;
+}
+
+
+Select only p elements with classname=class1
+P.class1{
+    Property: Value;
+}
